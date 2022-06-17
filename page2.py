@@ -1,2 +1,1 @@
-lis=["the", "crab", "impostor", "bothersome", "unorderly", "lightsaber", "scientifical", "cartridge", "toad", "simpsons", "bit", "symptomatic", "applaud", "overconfident", "permissible", "gather", "unwieldy", "hesitant", "ancient", "pencil", "oval", "flood"]
 #Use of this page is optional. If you use code here, make sure either import page2 or from page2 import * appear on your main.py page.
